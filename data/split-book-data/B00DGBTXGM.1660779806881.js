@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Dragons are extinct in the wild, but the Makepeace Institute of Integrated Dragon Studies in Smokehill National Park is home to about two hundred of the world's remaining creatures. Until Jake discovers a dying dragon that has given birth - and one of the babies is still alive.</p>"; 
